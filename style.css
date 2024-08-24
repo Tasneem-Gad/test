@@ -1,6 +1,5 @@
-
-html {
-  direction:rtl;
+*{
+    direction:rtl
 }
 .visible .panel .scroll-contents .with-header .without-toolbar .without-footer{
     direction: rtl;
