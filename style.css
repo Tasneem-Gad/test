@@ -1,6 +1,5 @@
-.panel{
+.panel , .grid-toolbars{
     direction:rtl;
-    background-color: #a2376d;
     box-shadow:
       rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
       rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
@@ -19,4 +18,10 @@
 }
 .visible .panel .scroll-contents .with-header .without-toolbar .without-footer{
     direction: rtl;
+}
+.view{
+        display: flex;
+    justify-content: center;
+        background-color: #a2376d;
+
 }
