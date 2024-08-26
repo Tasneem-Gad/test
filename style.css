@@ -39,3 +39,19 @@
        padding: 10px;
     
 }
+.input-control-m-c{
+    display: flex;
+  height: 5px;
+  background: #fff;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  border-radius: 8px;
+  align-items: center;
+  cursor: pointer;
+  justify-content: space-between;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+.input-control-buttons .styling-right .styling-inner-wrapper{
+     background-color: #a2376d;
+}
